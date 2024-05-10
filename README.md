@@ -22,6 +22,10 @@
 * Отловлен пакет с протоколом DNS, трафика интерфейса выхода в интернет, используя [Wireshark](https://www.wireshark.org/download.html).
 * Определены обнаруженные флаги - <a href="https://drive.google.com/file/d/1HLa30-KHfvMnH_48kwUifrn7IN3aRGhH/view">Скриншот</a>.
 
+---
+---
+
+
 ## Описание Задания 1. Wireshark, UDP
 
 1. Запустите захват трафика с интерфейса, через который выходите в интернет.
